@@ -1266,3 +1266,10 @@ body {
     left: 1180px;
     top: 450px
 }
+
+/* ===== 사키코 가사 영역 위치 ===== */
+#experience.member-0 .lyrics {
+    left: 610px;
+    top: 510px;
+    width: 350px;
+}
